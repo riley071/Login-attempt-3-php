@@ -1,5 +1,5 @@
 # Login-attempt-3-php
-How To Limit Login Attempt Using PHP And MySQL 
+
 
 How to run How to limit login attempt Using PHP and MySQL script 
 

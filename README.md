@@ -15,4 +15,4 @@ How to run How to limit login attempt Using PHP and MySQL script
 
 6.Import loginattemp.sql file(Available inside the zip package)
 
-7.Run the script http://localhost/hmms
+7.Run the script http://localhost/loginattempts
